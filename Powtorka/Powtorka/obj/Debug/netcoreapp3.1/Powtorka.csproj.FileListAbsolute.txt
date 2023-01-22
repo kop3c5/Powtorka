@@ -1,0 +1,14 @@
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\bin\Debug\netcoreapp3.1\Powtorka.exe
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\bin\Debug\netcoreapp3.1\Powtorka.deps.json
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\bin\Debug\netcoreapp3.1\Powtorka.runtimeconfig.json
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\bin\Debug\netcoreapp3.1\Powtorka.runtimeconfig.dev.json
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\bin\Debug\netcoreapp3.1\Powtorka.dll
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\bin\Debug\netcoreapp3.1\Powtorka.pdb
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\obj\Debug\netcoreapp3.1\Powtorka.csproj.AssemblyReference.cache
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\obj\Debug\netcoreapp3.1\Powtorka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\obj\Debug\netcoreapp3.1\Powtorka.AssemblyInfoInputs.cache
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\obj\Debug\netcoreapp3.1\Powtorka.AssemblyInfo.cs
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\obj\Debug\netcoreapp3.1\Powtorka.csproj.CoreCompileInputs.cache
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\obj\Debug\netcoreapp3.1\Powtorka.dll
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\obj\Debug\netcoreapp3.1\Powtorka.pdb
+C:\Users\kop3c\Desktop\Uczelnia SEM5\JIPP sem5\Programy\Powtórka\Powtorka\Powtorka\obj\Debug\netcoreapp3.1\Powtorka.genruntimeconfig.cache
